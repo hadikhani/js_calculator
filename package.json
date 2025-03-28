@@ -1,0 +1,28 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "یک پکیج ماشین حساب ساده برای استفاده در فریمورک‌های مختلف",
+  "main": "dist/calculator.js",
+  "module": "src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": [
+    "calculator",
+    "math",
+    "javascript",
+    "framework-agnostic"
+  ],
+  "author": "شما",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0",
+    "jest": "^29.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/simple-calculator.git"
+  }
+}

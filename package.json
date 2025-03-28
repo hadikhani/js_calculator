@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "js_calculator",
   "version": "1.0.0",
   "description": "یک پکیج ماشین حساب ساده برای استفاده در فریمورک‌های مختلف",
   "main": "dist/calculator.js",
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/simple-calculator.git"
+    "url": "git+https://github.com/yourusername/js_calculator.git"
   }
 }
